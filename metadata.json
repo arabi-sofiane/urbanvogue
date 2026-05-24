@@ -1,0 +1,6 @@
+{
+  "name": "Urban Vogue",
+  "description": "An architectural minimalist streetwear e-commerce application featuring a fully interactive catalog, dynamic image bindings, seasonal curated collections, shopping bag, and a secure checkout flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
